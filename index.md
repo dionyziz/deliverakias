@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Θέση εργασίας: Sales person στην Deliverakias
 
-You can use the [editor on GitHub](https://github.com/tech-no-crat/deliverakias/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## H Εταιρία
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To **Deliverakias** είναι μια νέα, υπό ανπτυξη εταιρα διανομής φαγητού που στοχεύει να κάνει το delivery φαγητού αποδοτικότερο και φτηνότερο για όλους. Ο στόχος μας είναι να δώσουμε την δυνατότητα σε κάθε εστιατόριο στην Ελλάδα να κάνει διανομή φαγητού, με μηδενικό ρίσκο και ελάχιστο κστος για τους καταστηματάρχες.
 
-### Markdown
+Το delivery φαγητού στην Ελλάδα είναι πολύ διαδεδομένο, παρόλα αυτά δείχνει να είναι αναποτελεσματικό και δουλεύει διαφορετικά από ότι στο εξωτερικό. Κάθε εστιατόριο που κάνει κατ’ οίκων παράδοση φαγητού πληρώνει και διαχειρίζεται τον δικό του ανεξάρτητο στόλο με μηχανάκια και προσωπικό. Παράλληλα, οι καταστηματάρχες πληρώνουν σημαντικό ποσοστό του τζίρου τους για να συμμετέχουν σε ηλεκτρονικές πλατφόρμες στις οποίες οι πελάτες υποβάλλουν τις παραγγελίες που έπειτα μεταφέρονται στο κατάστημα (e-food.gr, deliveras.gr, delivery.gr κ.α.). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Το **Deliverakias** θέλει να απαλλάξει τους καταστηματάρχες από το κόστος και τον κόπο του να κάνουν οτιδήποτε άλλο πέρα της παρασκευής των προϊόντων τους, με μία κεντρική πλατφόρμα παράδοσης φαγητού και ψιλικών ειδών που διατηρεί τον δικό της στόλο διανομέων, και τον διαχειρίζεται με στόχο την μέγιστη αποτελεσματικότητα. Με απλά λόγια, στο μοντέλο που προτείνουμε οι διανομείς θα είναι υπάλληλοι του **Deliverakias** και όχι του καταστήματος, κάνοντας τις διαμονές πιο συμφέρουσες και αποδοτικές για όλους.
 
-```markdown
-Syntax highlighted code block
+Θέλουμε αρχικά να δοκιμάσουμε την ιδέα σε έναν μικρό αριθμό εστιατορίων, στοχεύοντας αρχικά σε εστιατόρια που δεν προσφέρουν ήδη delivery ώστε να βεβαιωθούμε για την χρησιμότητα της.
 
-# Header 1
-## Header 2
-### Header 3
+## H Θέση
+Αναζητούμε άτομο που θα μας βοηθήσει να αποκτήσουμε τους πρώτους μας πελάτες και να καταλάβουμε καλύτερα τις ανάγκες τους.
 
-- Bulleted
-- List
+## Προϋποθέσεις
+* Εξαιρετική προφορική επικοινωνία στα Ελληνικά
+* Καλή γνώση Αγγλικών
+* Αυτοπεποίθηση και χαμόγελο απέναντι σε αγνώστους
+* Άριστη χρήση του γραπτού λόγου
+* Εμπειρία στην προετοιμασία παρουσιάσεων (Google Presentations ή Powerpoint)
+* Άνετη παρουσίαση μπροστά σε κοινό
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tech-no-crat/deliverakias/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Προσφέρουμε
+* Μερική απασχόληση στη Θεσσαλονίκη
+* Εν μέρει ωράριο της επιλογής σας
+* Μικρή εταιρεία με δυνατότητες εξέλιξης
+* Ανταγωνιστικό μισθό
